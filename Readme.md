@@ -26,7 +26,7 @@ For more information, please check Tuya Developer Website.
 
 ​              故障告警：电池电量不足、余粮不足、卡粮
 
-​              与其他智能家居进行场景联动。
+​              断电记忆；与其他智能家居进行场景联动。
 
 ​              mcu固件升级；
 
@@ -41,6 +41,10 @@ For more information, please check Tuya Developer Website.
 ​             加一个可以通过手机控制的红外激光反射器，在家的时候喂宠、逗宠两不误。
 
 
+
+视频版：在升级版基础上加上摄像头，实时语音喊话，视频实时逗宠。
+
+​               
 
 
 
@@ -70,5 +74,9 @@ For more information, please check Tuya Developer Website.
 
 2）6月1日前实现整体功能联调
 
+视频版：
 
+1）6月10日前确定摄像头方案
+
+2）7月30日前实现视频功能
 
